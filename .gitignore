@@ -1,0 +1,10 @@
+# Generated at runtime — do not commit
+config/calibration.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test/cache
+.pytest_cache/
